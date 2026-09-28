@@ -1,0 +1,6 @@
+{
+  "name": "Español en el aire | Իսպաներենը՝ եթերում",
+  "description": "Lección interactiva de español a través del armenio con video, transcripción, ejercicios y conversación. Իսպաներենի ինտերակտիվ դաս հայերենով՝ հիմնված Նատալիայի և Ֆակունդոյի հարցազրույցի վրա:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
